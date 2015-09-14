@@ -1,0 +1,11 @@
+# Learning about If Statements
+
+number = int(raw_input("Enter age"))
+
+if number < 5:
+	print "You are not in school yet" 
+	
+number = int(raw_input("Enter age"))
+
+if number < 15:
+	print "You are still in middle school"	
